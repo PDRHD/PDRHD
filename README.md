@@ -1,30 +1,40 @@
-Hi there 
+<h1>Hi, I'm ?!</h1>
 
-PROJECTNAME
-Objective
-[Brief Objective - Remove this afterwards]
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+ - [Tutorial Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+   
+<h2>Certifications</h2>
 
-Skills Learned
-[Bullet Points - Remove this afterwards]
+- [Cisco Cybersecurity Foundation](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-Advanced understanding of SIEM concepts and practical application.
-Proficiency in analyzing and interpreting network logs.
-Ability to generate and recognize attack signatures and patterns.
-Enhanced knowledge of network protocols and security vulnerabilities.
-Development of critical thinking and problem-solving skills in cybersecurity.
-Tools Used
-[Bullet Points - Remove this afterwards]
+<h2>📺 Popular YouTube Videos</h2>
 
-Security Information and Event Management (SIEM) system for log ingestion and analysis.
-Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-Telemetry generation tools to create realistic network traffic and attack scenarios.
-Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-Every screenshot should have some text explaining what the screenshot is about.
+<h2> 🤳 Connect with me:</h2>
 
-Example below.
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Ref 1: Network Diagram
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

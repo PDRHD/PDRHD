@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Tutorial Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Tutorial Active Directory Home Lab](https://github.com
    
 <h2>Certifications</h2>
 
-- [Cisco Cybersecurity Foundation](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Cisco Cybersecurity Foundation](https://www.youtube.com
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial Active Directory Home Lab](https://www.youtube.com
 
 <h2> 🤳 Connect with me:</h2>
 

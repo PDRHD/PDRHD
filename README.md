@@ -19,10 +19,9 @@
 [<img align="left" alt="TecnoProyx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TecnoProyx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/TecnoProyx
 [youtube]: https://www.youtube.com/c/TecnoProyx
 [instagram]: https://www.instagram.com/TecnoProyx/
-[linkedin]: https://linkedin.com/in/TecnoProyx
+[linkedin]: https://linkedin.com/in/
 
 <!--
 **TecnoProyx/TecnoProyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
